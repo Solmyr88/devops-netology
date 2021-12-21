@@ -28,3 +28,5 @@ override.tf.json
 # Игнорирование файлов с  определенным расширением и фалй terraform.rc
 .terraformrc
 terraform.rc
+
+Homeworck 2.2
